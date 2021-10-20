@@ -1,35 +1,5 @@
-LabelImg
+AlpLabel
 ========
-
-.. image:: https://img.shields.io/pypi/v/labelimg.svg
-        :target: https://pypi.python.org/pypi/labelimg
-
-.. image:: https://img.shields.io/travis/tzutalin/labelImg.svg
-        :target: https://travis-ci.org/tzutalin/labelImg
-
-.. image:: https://img.shields.io/badge/lang-en-blue.svg
-        :target: https://github.com/tzutalin/labelImg/blob/master/README.zh.rst
-
-.. image:: https://img.shields.io/badge/lang-zh-green.svg
-        :target: https://github.com/tzutalin/labelImg/blob/master/readme/README.zh.rst
-
-.. image:: https://img.shields.io/badge/lang-zh--TW-green.svg
-    :target: (https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-br.md
-
-LabelImg is a graphical image annotation tool.
-
-It is written in Python and uses Qt for its graphical interface.
-
-Annotations are saved as XML files in PASCAL VOC format, the format used
-by `ImageNet <http://www.image-net.org/>`__.  Besides, it also supports YOLO and CreateML formats.
-
-.. image:: https://raw.githubusercontent.com/tzutalin/labelImg/master/demo/demo3.jpg
-     :alt: Demo Image
-
-.. image:: https://raw.githubusercontent.com/tzutalin/labelImg/master/demo/demo.jpg
-     :alt: Demo Image
-
-`Watch a demo video <https://youtu.be/p0nR2YsCY_U>`__
 
 Installation
 ------------------
